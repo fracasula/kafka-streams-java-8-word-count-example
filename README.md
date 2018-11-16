@@ -1,3 +1,9 @@
+Bootstrap:
+
+```bash
+docker-compose up -d
+```
+
 In every shell:
 
 ```bash
